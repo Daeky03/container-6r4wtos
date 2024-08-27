@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Daeky03",
+  "repo": "container-6r4wtos",
+  "name": "Daeky03",
+  "email": "mehmetfifi03@gmail.com",
+}
